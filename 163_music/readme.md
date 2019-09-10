@@ -4,7 +4,7 @@
 ## 使用
 
 1. 下载
-> 
+> https://github.com/AlexJakin/spider_to_emotion_alanalysis.git
 
 2. 运行（进入该目录）
 > python ./get_comments.py
